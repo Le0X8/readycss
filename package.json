@@ -1,0 +1,22 @@
+{
+  "name": "readycss",
+  "version": "1.0.0",
+  "description": "A collection of CSS stylesheets that just have to be imported and make your project look much better.",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@Le0X8/readycss"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "LeoX DEV",
+  "license": "MIT",
+  "devDependencies": {
+    "csso": "^5.0.5",
+    "sass": "^1.69.5"
+  }
+}
