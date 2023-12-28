@@ -1,1 +1,27 @@
+/*
+
+MIT License
+
+Copyright (c) 2023 LeoX DEV
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+*/
+
 *{font-family:"Noto Sans",sans-serif;font-size:1rem;font-weight:400;color:#222;margin:0;padding:0;box-sizing:border-box;border:0;min-width:fit-content;height:fit-content;text-decoration:none;list-style:none;background-color:transparent;outline:0;font-style:normal;line-height:1.5;font-variant:normal}body{padding:1rem}[displayas=h1],[displayas=h2],[displayas=h3],[displayas=h4],[displayas=h5],[displayas=h6],h1,h2,h3,h4,h5,h6{font-weight:700;padding-bottom:.125rem;width:100%;border-bottom:1px solid #ccc;margin-bottom:.5rem}[displayas=h1],h1{font-size:2.25rem}[displayas=h2],h2{font-size:2rem}[displayas=h3],h3{font-size:1.75rem}[displayas=h4],h4{font-size:1.5rem}[displayas=h5],h5{font-size:1.25rem}[displayas=h6],h6{font-size:1rem}[displayas=p],p{margin-bottom:.5rem}[displayas=adress],address{margin:.5rem;padding:.5rem;border:1px solid #222;width:fit-content}[displayas=article],article{margin:2.5rem;padding:.5rem;border-top:1px solid #eee;border-bottom:1px solid #eee;width:calc(100% - 6rem)}[displayas=aside],aside{float:right;padding:.25rem 0 0 .75rem;margin:.5rem;border-left:1px solid #080}[displayas=aside]>*,aside>*{color:#080}
